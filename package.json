@@ -1,0 +1,19 @@
+{
+  "name": "htmlintro",
+  "version": "1.0.0",
+  "description": "primeiro web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4r36/HTMLintro.git"
+  },
+  "author": "Rodrigo Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4r36/HTMLintro/issues"
+  },
+  "homepage": "https://github.com/4r36/HTMLintro#readme"
+}
