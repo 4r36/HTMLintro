@@ -4,7 +4,7 @@
   "description": "primeiro web server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/4r36/HTMLintro/issues"
   },
-  "homepage": "https://github.com/4r36/HTMLintro#readme"
+  "homepage": "https://github.com/4r36/HTMLintro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
