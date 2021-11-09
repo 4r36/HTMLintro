@@ -26,6 +26,16 @@ margin-top: 10px;
     font-style: italic;
     margin-left: 20px;
     margin-top: 10px;
+    text-align: center;
     
     }
-
+    .magic{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(0, 0, 0);
+        font-size: 24px;
+        font-weight:bold;
+        font-style: italic;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: center;
+        
+        }
