@@ -40,14 +40,17 @@ margin-top: 10px;
         
         }
 
-    .voltar{
-        position: relative;
-        width: 10%;
-        border-style: inset;
-        display: block;
-        margin-left: auto ;
-        margin-right: auto;
-        margin-top: 800px;
-        text-align: center;
-        background-color: cornflowerblue;
-        }
+
+        .menu{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(0, 0, 0);
+            font-size: 18px;
+            font-weight:bold;
+            font-style: italic;
+            position: relative;
+            top: -80px;
+            text-align: right;
+            float: right;
+            padding: 15px;
+            }
+        .menu:hover{
+            background-color: rgb(165, 89, 236);}
